@@ -39,7 +39,8 @@ function Sidebar() {
             <div className="logo">
                 <img src={logo} alt={logo}  />
                 <span>
-                    Sh<span>o</span>ps
+                        Sh<span>o</span>ps
+                        
                 </span>
             </div>
         {/*    menu*/}
